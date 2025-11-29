@@ -1,6 +1,6 @@
 const bcrypt = require('bcryptjs');
 const { validationResult } = require('express-validator');
-const User = require('../../101505167_comp3123_Assignment2/backend/models/user');
+const User = require('../models/user');
 
 // POST /api/v1/user/signup
 exports.signupUser = async (req, res) => {

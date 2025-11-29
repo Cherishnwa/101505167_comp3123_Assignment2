@@ -18,6 +18,7 @@ It includes user authentication (signup & login) and full CRUD operations for ma
 ---
 
 ## 🛠️ Technologies Used
+
 - **Node.js**
 - **Express**
 - **MongoDB / Mongoose**

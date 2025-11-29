@@ -1,4 +1,4 @@
-const Employee = require('../../101505167_comp3123_Assignment2/backend/models/employee');
+const Employee = require('../models/employee');
 
 // GET /api/v1/emp/employees
 exports.getAllEmployees = async (req, res) => {

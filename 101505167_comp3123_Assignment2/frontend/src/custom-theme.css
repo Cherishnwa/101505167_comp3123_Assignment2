@@ -1,0 +1,12 @@
+:root {
+  --pink: #ff69b4;
+  --pink-light: #ffb6d3;
+  --pink-dark: #d9488e;
+  --bg: #f8cbe0;
+  --text: #5a0037;
+}
+
+body {
+  background-color: var(--bg) !important;
+  font-family: 'Inter', sans-serif;
+}
